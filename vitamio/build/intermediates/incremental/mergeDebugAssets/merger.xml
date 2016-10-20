@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\myProject\mengmengda\vitamio\src\main\assets"/><source path="E:\myProject\mengmengda\vitamio\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\myProject\mengmengda\vitamio\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\BaiduYunDownload\mengmengda\vitamio\src\main\assets"/><source path="D:\BaiduYunDownload\mengmengda\vitamio\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\BaiduYunDownload\mengmengda\vitamio\src\debug\assets"/></dataSet></merger>
